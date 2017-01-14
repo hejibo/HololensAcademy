@@ -6,8 +6,8 @@ Obj/
 Bin/
 UnityGenerated/
 Library/
-Assets/AssetStoreTools*
 App/
+Assets/AssetStoreTools*
 UWP/
 project.json
 project.lock.json
